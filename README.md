@@ -3,7 +3,7 @@
 - 👀  I used to write scripts on MATLAB and VBA, distanced myself from these two languages more than 5 years ago. 
 - 🌱  I’m currently working on climate data analysis, hydrology and water systems modelling.
 - 💞️  I'm also interested in flood modelling and GIS applications to water science and engineering.
-- 📫  How to reach me : gperez@qld.gov.au
+- 📫  How to reach me : g.perez1404@gmail.com
 
 <!---
 gperez1404/gperez1404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
